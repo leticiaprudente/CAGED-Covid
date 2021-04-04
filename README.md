@@ -4,7 +4,7 @@
 
 - ### Leticia Macedo Prudente de Carvalho
 - ### Yan Rodrigues de Azevedo
-- ### Professor: Fabrício Galende
+- ### Professor: Fernando Masanori Ashikaga
 
 #### User Stories
 
